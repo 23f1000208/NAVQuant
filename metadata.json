@@ -1,0 +1,6 @@
+{
+  "name": "Mutual Fund Analytics & Advisory Dashboard",
+  "description": "Quantitative mutual fund analytics, risk metrics calculation engine, portfolio holdings deep-dive, benchmark comparisons, and AI-powered investment advisory insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
